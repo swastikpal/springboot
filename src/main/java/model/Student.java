@@ -9,7 +9,6 @@ public class Student {
     private String studentName;
     private Map<String, Double> scores =  new HashMap<>();
 
-
     public Integer getId() {
         return id;
     }
