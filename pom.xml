@@ -42,14 +42,12 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
-			<version>1.5.7.RELEASE</version>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.mongodb</groupId>
 			<artifactId>mongodb-driver</artifactId>
-			<version>3.4.0</version>
-		</dependency>
+			</dependency>
 	</dependencies>
 
 	<build>
